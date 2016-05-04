@@ -140,7 +140,7 @@ public class Reversi
 
     public void ai_test(){
 
-        wait(200);
+        wait(100);
 
         while(true){
 
